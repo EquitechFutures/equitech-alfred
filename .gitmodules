@@ -1,0 +1,3 @@
+[submodule "notion"]
+	path = notion
+	url = https://github.com/yashgorana/notion-py
