@@ -1,0 +1,14 @@
+*.pyc
+__pycache__
+build/
+dist/
+*.egg-info
+*_testing.py
+
+# pipenv
+.env
+.venv
+Pipfile
+
+# Alfred config
+config.json
