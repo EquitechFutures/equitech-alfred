@@ -1,10 +1,12 @@
 # EquiTech Alfred
 
+**NOTE: Project is no longer maintained and does not work after Notion's database API was updated**
+
 Alfred simplifies the process of handing out course assignments on Notion.
 
 At its core, Alfred duplicates Notion blocks across databases and auto-shares page with correct permissions. It can also disable read-write-access after a particular date & time.
 
-Developed for EquiTech Future's [Global Summer Institute 2021](https://www.equitechfutures.com/gsi)
+Developed for EquiTech Future's [Equitech Scholars Program 2021](https://www.equitechfutures.com/esp)
 
 ## Setup
 
